@@ -1,0 +1,18 @@
+declarant.update_tnved 2022-10-19 16:35:47,443 INFO R0 - ок.
+declarant.update_tnved 2022-10-19 16:35:47,570 INFO R1 - ok.
+declarant.update_tnved 2022-10-19 16:35:47,570 INFO Start TreeTnvedUpdate!
+declarant.update_tnved 2022-10-19 16:35:55,486 INFO Tree_tnved json received successfully.
+declarant.update_tnved 2022-10-19 16:36:37,904 INFO Tnved json received successfully.
+declarant.update_tnved 2022-10-19 16:36:39,858 INFO Start save tree_tnved.
+declarant.update_tnved 2022-10-19 16:36:51,919 ERROR ERROR. id - 130, parent - 129, name - нетели (самки крупного рогатого скота до первого отела):
+declarant.update_tnved 2022-10-19 16:36:51,930 ERROR ERROR. id - 131, parent - 129, name - коровы:
+declarant.update_tnved 2022-10-19 16:36:51,940 ERROR ERROR. id - 132, parent - 129, name - прочие:
+declarant.update_tnved 2022-10-19 16:37:05,054 ERROR ERROR. id - 1686, parent - 1685, name - с содержанием сахара более 9 мас.%:
+declarant.update_tnved 2022-10-19 16:37:05,063 ERROR ERROR. id - 1691, parent - 1685, name - прочие:
+declarant.update_tnved 2022-10-19 16:37:05,110 ERROR ERROR. id - 1697, parent - 1696, name - содержащие добавки сахара:
+declarant.update_tnved 2022-10-19 16:37:05,119 ERROR ERROR. id - 1705, parent - 1696, name - не содержащие добавок сахара, в первичных упаковках нетто-массой:
+declarant.update_tnved 2022-10-19 16:37:48,191 ERROR ERROR. id - 7143, parent - 7141, name - прочие:
+declarant.update_tnved 2022-10-19 16:37:58,080 INFO Tree_tnved saved.
+declarant.update_tnved 2022-10-19 16:37:58,081 INFO Start save tnved.
+declarant.update_tnved 2022-10-19 16:40:14,163 INFO Tnved saved.
+declarant.update_tnved 2022-10-19 16:40:14,286 INFO Session completed successfully.
